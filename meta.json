@@ -37,7 +37,7 @@
   "gifs": [
     {
       "name": "andy hits computer",
-      "path": "angry/andy-hits-computer.gif",
+      "path": "gifs/angry/andy-hits-computer.gif",
       "category": "angry",
       "categoryTags": ["annoyed", "cross", "irritated"],
       "subcategory": "",
@@ -46,7 +46,7 @@
     },
     {
       "name": "dancing cockroaches",
-      "path": "anticipating/excitement/dancing-cockroaches.gif",
+      "path": "gifs/anticipating/excitement/dancing-cockroaches.gif",
       "category": "anticipating",
       "categoryTags": ["expectant"],
       "subcategory": "excitement",
@@ -55,7 +55,7 @@
     },
     {
       "name": "giggle jim carrey",
-      "path": "anticipating/excitement/giggle-jim-carrey.gif",
+      "path": "gifs/anticipating/excitement/giggle-jim-carrey.gif",
       "category": "anticipating",
       "categoryTags": ["expectant"],
       "subcategory": "excitement",
@@ -64,7 +64,7 @@
     },
     {
       "name": "its working star wars",
-      "path": "anticipating/excitement/its-working-star-wars.gif",
+      "path": "gifs/anticipating/excitement/its-working-star-wars.gif",
       "category": "anticipating",
       "categoryTags": ["expectant"],
       "subcategory": "excitement",
@@ -73,7 +73,7 @@
     },
     {
       "name": "pleases me",
-      "path": "anticipating/excitement/pleases-me.gif",
+      "path": "gifs/anticipating/excitement/pleases-me.gif",
       "category": "anticipating",
       "categoryTags": ["expectant"],
       "subcategory": "excitement",
@@ -82,7 +82,7 @@
     },
     {
       "name": "friends joey chandler clapping",
-      "path": "happy/clap/friends-joey-chandler-clapping.gif",
+      "path": "gifs/happy/clap/friends-joey-chandler-clapping.gif",
       "category": "happy",
       "categoryTags": ["cheerful", "glee", "merry", "joyful"],
       "subcategory": "clap",
@@ -98,7 +98,7 @@
     },
     {
       "name": "morgan freeman impressed clapping",
-      "path": "happy/clap/morgan-freeman-impressed-clapping.gif",
+      "path": "gifs/happy/clap/morgan-freeman-impressed-clapping.gif",
       "category": "happy",
       "categoryTags": ["cheerful", "glee", "merry", "joyful"],
       "subcategory": "clap",
@@ -114,7 +114,7 @@
     },
     {
       "name": "rachel phoebe jumping clapping",
-      "path": "happy/clap/rachel-phoebe-jumping-clapping.gif",
+      "path": "gifs/happy/clap/rachel-phoebe-jumping-clapping.gif",
       "category": "happy",
       "categoryTags": ["cheerful", "glee", "merry", "joyful"],
       "subcategory": "clap",
@@ -130,7 +130,7 @@
     },
     {
       "name": "will smith fresh prince clapping",
-      "path": "happy/clap/will-smith-fresh-prince-clapping.gif",
+      "path": "gifs/happy/clap/will-smith-fresh-prince-clapping.gif",
       "category": "happy",
       "categoryTags": ["cheerful", "glee", "merry", "joyful"],
       "subcategory": "clap",
@@ -146,7 +146,7 @@
     },
     {
       "name": "amy seth snl high five",
-      "path": "happy/high-five/amy-seth-snl-high-five.gif",
+      "path": "gifs/happy/high-five/amy-seth-snl-high-five.gif",
       "category": "happy",
       "categoryTags": ["cheerful", "glee", "merry", "joyful"],
       "subcategory": "high five",
@@ -155,7 +155,7 @@
     },
     {
       "name": "borat high five",
-      "path": "happy/high-five/borat-high-five.gif",
+      "path": "gifs/happy/high-five/borat-high-five.gif",
       "category": "happy",
       "categoryTags": ["cheerful", "glee", "merry", "joyful"],
       "subcategory": "high five",
@@ -164,7 +164,7 @@
     },
     {
       "name": "it crowd high five",
-      "path": "happy/high-five/it-crowd-high-five.gif",
+      "path": "gifs/happy/high-five/it-crowd-high-five.gif",
       "category": "happy",
       "categoryTags": ["cheerful", "glee", "merry", "joyful"],
       "subcategory": "high five",
@@ -173,7 +173,7 @@
     },
     {
       "name": "pokemon high five",
-      "path": "happy/high-five/pokemon-high-five.gif",
+      "path": "gifs/happy/high-five/pokemon-high-five.gif",
       "category": "happy",
       "categoryTags": ["cheerful", "glee", "merry", "joyful"],
       "subcategory": "high five",
@@ -182,7 +182,7 @@
     },
     {
       "name": "proud of myself",
-      "path": "happy/high-five/proud-of-myself.gif",
+      "path": "gifs/happy/high-five/proud-of-myself.gif",
       "category": "happy",
       "categoryTags": ["cheerful", "glee", "merry", "joyful"],
       "subcategory": "high five",
@@ -191,7 +191,7 @@
     },
     {
       "name": "laughing chris evans",
-      "path": "happy/laughing/laughing-chris-evans.gif",
+      "path": "gifs/happy/laughing/laughing-chris-evans.gif",
       "category": "happy",
       "categoryTags": ["cheerful", "glee", "merry", "joyful"],
       "subcategory": "laughing",
@@ -200,7 +200,7 @@
     },
     {
       "name": "laughing dastardly dog",
-      "path": "happy/laughing/laughing-dastardly-dog.gif",
+      "path": "gifs/happy/laughing/laughing-dastardly-dog.gif",
       "category": "happy",
       "categoryTags": ["cheerful", "glee", "merry", "joyful"],
       "subcategory": "laughing",
@@ -209,7 +209,7 @@
     },
     {
       "name": "laughing joey chandler friends",
-      "path": "happy/laughing/laughing-joey-chandler-friends.gif",
+      "path": "gifs/happy/laughing/laughing-joey-chandler-friends.gif",
       "category": "happy",
       "categoryTags": ["cheerful", "glee", "merry", "joyful"],
       "subcategory": "laughing",
@@ -218,7 +218,7 @@
     },
     {
       "name": "jimmy fallon shrug maybe",
-      "path": "maybe/jimmy-fallon-shrug-maybe.gif",
+      "path": "gifs/maybe/jimmy-fallon-shrug-maybe.gif",
       "category": "maybe",
       "categoryTags": ["perhaps", "potentially", "not sure"],
       "subcategory": "",
@@ -227,7 +227,7 @@
     },
     {
       "name": "schitts creek maybe possibly",
-      "path": "maybe/schitts-creek-maybe-possibly.gif",
+      "path": "gifs/maybe/schitts-creek-maybe-possibly.gif",
       "category": "maybe",
       "categoryTags": ["perhaps", "potentially", "not sure"],
       "subcategory": "",
@@ -236,7 +236,7 @@
     },
     {
       "name": "the office jim maybe considering",
-      "path": "maybe/the-office-jim-maybe-considering.gif",
+      "path": "gifs/maybe/the-office-jim-maybe-considering.gif",
       "category": "maybe",
       "categoryTags": ["perhaps", "potentially", "not sure"],
       "subcategory": "",
@@ -245,7 +245,7 @@
     },
     {
       "name": "back out of conversation vanish",
-      "path": "no/back-out-of-conversation-vanish.gif",
+      "path": "gifs/no/back-out-of-conversation-vanish.gif",
       "category": "no",
       "categoryTags": ["negative", "nope"],
       "subcategory": "",
@@ -254,7 +254,7 @@
     },
     {
       "name": "don't even care",
-      "path": "no/don't-even-care.gif",
+      "path": "gifs/no/don't-even-care.gif",
       "category": "no",
       "categoryTags": ["negative", "nope"],
       "subcategory": "",
@@ -263,7 +263,7 @@
     },
     {
       "name": "thumbs down",
-      "path": "no/thumbs-down/thumbs-down.gif",
+      "path": "gifs/no/thumbs-down/thumbs-down.gif",
       "category": "no",
       "categoryTags": ["negative", "nope"],
       "subcategory": "thumbs down",
@@ -272,7 +272,7 @@
     },
     {
       "name": "hand wipe",
-      "path": "other/finished/hand-wipe.gif",
+      "path": "gifs/other/finished/hand-wipe.gif",
       "category": "other",
       "categoryTags": [],
       "subcategory": "finished",
@@ -281,7 +281,7 @@
     },
     {
       "name": "deal with it",
-      "path": "other/mic-drop/deal-with-it.gif",
+      "path": "gifs/other/mic-drop/deal-with-it.gif",
       "category": "other",
       "categoryTags": [],
       "subcategory": "mic drop",
@@ -290,7 +290,7 @@
     },
     {
       "name": "drop the mic",
-      "path": "other/mic-drop/drop-the-mic.gif",
+      "path": "gifs/other/mic-drop/drop-the-mic.gif",
       "category": "other",
       "categoryTags": [],
       "subcategory": "mic drop",
@@ -299,7 +299,7 @@
     },
     {
       "name": "sarcastic clapping",
-      "path": "other/sarcasm/sarcastic-clapping.gif",
+      "path": "gifs/other/sarcasm/sarcastic-clapping.gif",
       "category": "other",
       "categoryTags": [],
       "subcategory": "sarcasm",
@@ -308,7 +308,7 @@
     },
     {
       "name": "testing printer",
-      "path": "other/testing/testing-printer.gif",
+      "path": "gifs/other/testing/testing-printer.gif",
       "category": "other",
       "categoryTags": [],
       "subcategory": "testing",
@@ -317,7 +317,7 @@
     },
     {
       "name": "testing transmision",
-      "path": "other/testing/testing-transmision.gif",
+      "path": "gifs/other/testing/testing-transmision.gif",
       "category": "other",
       "categoryTags": [],
       "subcategory": "testing",
@@ -326,7 +326,7 @@
     },
     {
       "name": "trippy test card",
-      "path": "other/testing/trippy-test-card.gif",
+      "path": "gifs/other/testing/trippy-test-card.gif",
       "category": "other",
       "categoryTags": [],
       "subcategory": "testing",
@@ -335,7 +335,7 @@
     },
     {
       "name": "homer thinking deep thought",
-      "path": "other/thinking/homer-thinking-deep-thought.gif",
+      "path": "gifs/other/thinking/homer-thinking-deep-thought.gif",
       "category": "other",
       "categoryTags": [],
       "subcategory": "thinking",
@@ -344,7 +344,7 @@
     },
     {
       "name": "indiana jones sand bag",
-      "path": "other/thinking/indiana-jones-sand-bag.gif",
+      "path": "gifs/other/thinking/indiana-jones-sand-bag.gif",
       "category": "other",
       "categoryTags": [],
       "subcategory": "thinking",
@@ -353,7 +353,7 @@
     },
     {
       "name": "chuck_noblet_calculating",
-      "path": "other/working/chuck_noblet_calculating.gif",
+      "path": "gifs/other/working/chuck_noblet_calculating.gif",
       "category": "other",
       "categoryTags": [],
       "subcategory": "working",
@@ -362,7 +362,7 @@
     },
     {
       "name": "jim carrey working typing keyboard",
-      "path": "other/working/jim-carrey-working-typing-keyboard.gif",
+      "path": "gifs/other/working/jim-carrey-working-typing-keyboard.gif",
       "category": "other",
       "categoryTags": [],
       "subcategory": "working",
@@ -371,7 +371,7 @@
     },
     {
       "name": "enough internet",
-      "path": "sad/disappointment/enough internet.gif",
+      "path": "gifs/sad/disappointment/enough internet.gif",
       "category": "sad",
       "categoryTags": ["sadness", "upset"],
       "subcategory": "disappointment",
@@ -380,7 +380,7 @@
     },
     {
       "name": "throw away computer",
-      "path": "sad/disappointment/throw-away-computer.gif",
+      "path": "gifs/sad/disappointment/throw-away-computer.gif",
       "category": "sad",
       "categoryTags": ["sadness", "upset"],
       "subcategory": "disappointment",
@@ -389,7 +389,7 @@
     },
     {
       "name": "unimpressed cat",
-      "path": "sad/disappointment/unimpressed cat.gif",
+      "path": "gifs/sad/disappointment/unimpressed cat.gif",
       "category": "sad",
       "categoryTags": ["sadness", "upset"],
       "subcategory": "disappointment",
@@ -398,7 +398,7 @@
     },
     {
       "name": "guy trying to wash car",
-      "path": "sad/disaster/guy-trying-to-wash-car.gif",
+      "path": "gifs/sad/disaster/guy-trying-to-wash-car.gif",
       "category": "sad",
       "categoryTags": ["sadness", "upset"],
       "subcategory": "disaster",
@@ -407,7 +407,7 @@
     },
     {
       "name": "kenneth plunger",
-      "path": "sad/disaster/kenneth-plunger.gif",
+      "path": "gifs/sad/disaster/kenneth-plunger.gif",
       "category": "sad",
       "categoryTags": ["sadness", "upset"],
       "subcategory": "disaster",
@@ -416,7 +416,7 @@
     },
     {
       "name": "mr bean",
-      "path": "sad/disaster/mr-bean.gif",
+      "path": "gifs/sad/disaster/mr-bean.gif",
       "category": "sad",
       "categoryTags": ["sadness", "upset"],
       "subcategory": "disaster",
@@ -425,7 +425,7 @@
     },
     {
       "name": "paperboy bike crash",
-      "path": "sad/disaster/paperboy-bike-crash.gif",
+      "path": "gifs/sad/disaster/paperboy-bike-crash.gif",
       "category": "sad",
       "categoryTags": ["sadness", "upset"],
       "subcategory": "disaster",
@@ -434,7 +434,7 @@
     },
     {
       "name": "warehouse forklift crash",
-      "path": "sad/disaster/warehouse-forklift-crash.gif",
+      "path": "gifs/sad/disaster/warehouse-forklift-crash.gif",
       "category": "sad",
       "categoryTags": ["sadness", "upset"],
       "subcategory": "disaster",
@@ -443,7 +443,7 @@
     },
     {
       "name": "picard facepalm",
-      "path": "sad/facepalm/picard-facepalm.gif",
+      "path": "gifs/sad/facepalm/picard-facepalm.gif",
       "category": "sad",
       "categoryTags": ["sadness", "upset"],
       "subcategory": "facepalm",
@@ -452,7 +452,7 @@
     },
     {
       "name": "feeling lonely simpsons milhouse",
-      "path": "sad/lonely/feeling-lonely-simpsons-milhouse.gif",
+      "path": "gifs/sad/lonely/feeling-lonely-simpsons-milhouse.gif",
       "category": "sad",
       "categoryTags": ["sadness", "upset"],
       "subcategory": "lonely",
@@ -461,7 +461,7 @@
     },
     {
       "name": "raining dr who",
-      "path": "sad/lonely/raining-dr-who.gif",
+      "path": "gifs/sad/lonely/raining-dr-who.gif",
       "category": "sad",
       "categoryTags": ["sadness", "upset"],
       "subcategory": "lonely",
@@ -470,7 +470,7 @@
     },
     {
       "name": "obama crying",
-      "path": "sad/obama-crying.gif",
+      "path": "gifs/sad/obama-crying.gif",
       "category": "sad",
       "categoryTags": ["sadness", "upset"],
       "subcategory": "",
@@ -479,7 +479,7 @@
     },
     {
       "name": "peter parker crying",
-      "path": "sad/peter-parker-crying.gif",
+      "path": "gifs/sad/peter-parker-crying.gif",
       "category": "sad",
       "categoryTags": ["sadness", "upset"],
       "subcategory": "",
@@ -488,7 +488,7 @@
     },
     {
       "name": "can't believe it",
-      "path": "surprised/can't-believe-it.gif",
+      "path": "gifs/surprised/can't-believe-it.gif",
       "category": "surprised",
       "categoryTags": ["shock"],
       "subcategory": "",
@@ -497,7 +497,7 @@
     },
     {
       "name": "challenge accepted",
-      "path": "yes/challenge-accepted.gif",
+      "path": "gifs/yes/challenge-accepted.gif",
       "category": "yes",
       "categoryTags": ["affirmative", "ok", "okay", "on board", "yea", "yes"],
       "subcategory": "",
@@ -506,7 +506,7 @@
     },
     {
       "name": "complete agreement",
-      "path": "yes/complete-agreement.gif",
+      "path": "gifs/yes/complete-agreement.gif",
       "category": "yes",
       "categoryTags": ["affirmative", "ok", "okay", "on board", "yea", "yes"],
       "subcategory": "",
@@ -515,7 +515,7 @@
     },
     {
       "name": "good point",
-      "path": "yes/good-point.gif",
+      "path": "gifs/yes/good-point.gif",
       "category": "yes",
       "categoryTags": ["affirmative", "ok", "okay", "on board", "yea", "yes"],
       "subcategory": "",
@@ -524,7 +524,7 @@
     },
     {
       "name": "chuck norris",
-      "path": "yes/thumbs-up/chuck-norris.gif",
+      "path": "gifs/yes/thumbs-up/chuck-norris.gif",
       "category": "yes",
       "categoryTags": ["affirmative", "ok", "okay", "on board", "yea", "yes"],
       "subcategory": "thumbs up",
@@ -533,7 +533,7 @@
     },
     {
       "name": "suits joey",
-      "path": "yes/thumbs-up/suits-joey.gif",
+      "path": "gifs/yes/thumbs-up/suits-joey.gif",
       "category": "yes",
       "categoryTags": ["affirmative", "ok", "okay", "on board", "yea", "yes"],
       "subcategory": "thumbs up",
@@ -542,7 +542,7 @@
     },
     {
       "name": "surprised upvote",
-      "path": "yes/thumbs-up/surprised-upvote.gif",
+      "path": "gifs/yes/thumbs-up/surprised-upvote.gif",
       "category": "yes",
       "categoryTags": ["affirmative", "ok", "okay", "on board", "yea", "yes"],
       "subcategory": "thumbs up",
@@ -551,7 +551,7 @@
     },
     {
       "name": "terminator",
-      "path": "yes/thumbs-up/terminator.gif",
+      "path": "gifs/yes/thumbs-up/terminator.gif",
       "category": "yes",
       "categoryTags": ["affirmative", "ok", "okay", "on board", "yea", "yes"],
       "subcategory": "thumbs up",
@@ -560,7 +560,7 @@
     },
     {
       "name": "yup yep yes",
-      "path": "yes/yup-yep-yes.gif",
+      "path": "gifs/yes/yup-yep-yes.gif",
       "category": "yes",
       "categoryTags": ["affirmative", "ok", "okay", "on board", "yea", "yes"],
       "subcategory": "",
