@@ -236,6 +236,15 @@
       "size": 1834469
     },
     {
+      "name": "party",
+      "path": "gifs/happy/party.gif",
+      "category": "happy",
+      "categoryTags": ["cheerful", "glee", "merry", "joyful"],
+      "subcategory": "",
+      "subcategoryTags": [],
+      "size": 1801118
+    },
+    {
       "name": "jimmy fallon shrug maybe",
       "path": "gifs/maybe/jimmy-fallon-shrug-maybe.gif",
       "category": "maybe",
