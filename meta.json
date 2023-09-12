@@ -191,6 +191,15 @@
       "size": 793096
     },
     {
+      "name": "dilun happy",
+      "path": "gifs/happy/laughing/dilun-happy.gif",
+      "category": "happy",
+      "categoryTags": ["cheerful", "glee", "merry", "joyful"],
+      "subcategory": "laughing",
+      "subcategoryTags": ["lol", "joke", "funny"],
+      "size": 1175583
+    },
+    {
       "name": "laughing chris evans",
       "path": "gifs/happy/laughing/laughing-chris-evans.gif",
       "category": "happy",
