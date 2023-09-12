@@ -4,6 +4,7 @@
   "yes": ["affirmative", "ok", "okay", "on board", "yea", "yes"],
   "maybe": ["perhaps", "potentially", "not sure"],
   "no": ["negative", "nope"],
+  "rajdarn": [],
 
   // Basic Emotions
   "happy": ["cheerful", "glee", "merry", "joyful"],
