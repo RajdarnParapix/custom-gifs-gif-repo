@@ -155,6 +155,15 @@
       "size": 1932705
     },
     {
+      "name": "happy",
+      "path": "gifs/happy/happy.gif",
+      "category": "happy",
+      "categoryTags": ["cheerful", "glee", "merry", "joyful"],
+      "subcategory": "",
+      "subcategoryTags": [],
+      "size": 1324617
+    },
+    {
       "name": "amy seth snl high five",
       "path": "gifs/happy/high-five/amy-seth-snl-high-five.gif",
       "category": "happy",
