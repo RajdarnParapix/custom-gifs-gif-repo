@@ -245,6 +245,15 @@
       "size": 1834469
     },
     {
+      "name": "max celebrate",
+      "path": "gifs/happy/max-celebrate.gif",
+      "category": "happy",
+      "categoryTags": ["cheerful", "glee", "merry", "joyful"],
+      "subcategory": "",
+      "subcategoryTags": [],
+      "size": 943389
+    },
+    {
       "name": "party",
       "path": "gifs/happy/party.gif",
       "category": "happy",
