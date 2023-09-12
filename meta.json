@@ -46,6 +46,15 @@
       "size": 1454359
     },
     {
+      "name": "max what",
+      "path": "gifs/angry/max-what.gif",
+      "category": "angry",
+      "categoryTags": ["annoyed", "cross", "irritated"],
+      "subcategory": "",
+      "subcategoryTags": [],
+      "size": 2444752
+    },
+    {
       "name": "dancing cockroaches",
       "path": "gifs/anticipating/excitement/dancing-cockroaches.gif",
       "category": "anticipating",
