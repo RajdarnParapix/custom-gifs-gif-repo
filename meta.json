@@ -3,6 +3,7 @@
     "yes": ["affirmative", "ok", "okay", "on board", "yea", "yes"],
     "maybe": ["perhaps", "potentially", "not sure"],
     "no": ["negative", "nope"],
+    "rajdarn": [],
     "happy": ["cheerful", "glee", "merry", "joyful"],
     "sad": ["sadness", "upset"],
     "angry": ["annoyed", "cross", "irritated"],
@@ -318,6 +319,24 @@
     {
       "name": "rajdarn",
       "path": "gifs/other/testing/rajdarn.gif",
+      "category": "other",
+      "categoryTags": [],
+      "subcategory": "testing",
+      "subcategoryTags": ["test", "hello world"],
+      "size": 1474722
+    },
+    {
+      "name": "rajdarn ",
+      "path": "gifs/other/testing/rajdarn2.gif",
+      "category": "other",
+      "categoryTags": [],
+      "subcategory": "testing",
+      "subcategoryTags": ["test", "hello world"],
+      "size": 1474722
+    },
+    {
+      "name": "rajdarn ",
+      "path": "gifs/other/testing/rajdarn3.gif",
       "category": "other",
       "categoryTags": [],
       "subcategory": "testing",
