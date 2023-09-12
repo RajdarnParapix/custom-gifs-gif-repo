@@ -227,6 +227,15 @@
       "size": 1613056
     },
     {
+      "name": "oscar happy",
+      "path": "gifs/happy/laughing/oscar-happy.gif",
+      "category": "happy",
+      "categoryTags": ["cheerful", "glee", "merry", "joyful"],
+      "subcategory": "laughing",
+      "subcategoryTags": ["lol", "joke", "funny"],
+      "size": 1834469
+    },
+    {
       "name": "jimmy fallon shrug maybe",
       "path": "gifs/maybe/jimmy-fallon-shrug-maybe.gif",
       "category": "maybe",
