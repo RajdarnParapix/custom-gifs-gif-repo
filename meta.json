@@ -344,6 +344,24 @@
       "size": 511817
     },
     {
+      "name": "jocke drink",
+      "path": "gifs/other/party/jocke-drink.gif",
+      "category": "other",
+      "categoryTags": [],
+      "subcategory": "party",
+      "subcategoryTags": [],
+      "size": 960868
+    },
+    {
+      "name": "party",
+      "path": "gifs/other/party/party.gif",
+      "category": "other",
+      "categoryTags": [],
+      "subcategory": "party",
+      "subcategoryTags": [],
+      "size": 1801118
+    },
+    {
       "name": "sarcastic clapping",
       "path": "gifs/other/sarcasm/sarcastic-clapping.gif",
       "category": "other",
