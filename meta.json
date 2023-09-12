@@ -506,6 +506,15 @@
       "size": 1186376
     },
     {
+      "name": "hugo sad",
+      "path": "gifs/sad/hugo-sad.gif",
+      "category": "sad",
+      "categoryTags": ["sadness", "upset"],
+      "subcategory": "",
+      "subcategoryTags": [],
+      "size": 983505
+    },
+    {
       "name": "feeling lonely simpsons milhouse",
       "path": "gifs/sad/lonely/feeling-lonely-simpsons-milhouse.gif",
       "category": "sad",
