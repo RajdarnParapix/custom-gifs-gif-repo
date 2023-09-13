@@ -587,6 +587,15 @@
       "size": 1493960
     },
     {
+      "name": "hugo agree",
+      "path": "gifs/yes/thumbs-up/hugo-agree.gif",
+      "category": "yes",
+      "categoryTags": ["affirmative", "ok", "okay", "on board", "yea", "yes"],
+      "subcategory": "thumbs up",
+      "subcategoryTags": ["plus one", "+1", "agree"],
+      "size": 1859952
+    },
+    {
       "name": "suits joey",
       "path": "gifs/yes/thumbs-up/suits-joey.gif",
       "category": "yes",
